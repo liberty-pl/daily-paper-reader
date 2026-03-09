@@ -138,7 +138,7 @@ Fork 到自己的 GitHub 账号下，建议仓库名保持 `daily-paper-reader` 
 
 ### 4) ▶️ 开启 GitHub Actions
 
-进入你 Fork 的仓库，点击顶部 `Actions`，启用 `daily-paper-reader` 工作流。
+进入你 Fork 的仓库，点击顶部 [`Actions`](../../actions)，启用 `daily-paper-reader` 工作流。
 
 ### 5) 🌍 开启 GitHub Pages
 
